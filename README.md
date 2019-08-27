@@ -1,17 +1,7 @@
 # Guna.UI Framework | C#, VB.NET WinForms
 Version: 1.3 Beta2 [New Update August 28 2019]
 
------------------------------------------------------------------------------------------------------------
-
-📱 FOLLOW
-Youtube * http://bit.ly/30wfEr0
-Facebook * https://facebook.com/sobatdata
-Instagram * https://instagram.com/sobatdata
-Github * https://github.com/sobatdata
-
------------------------------------------------------------------------------------------------------------
-
-[new controls & components] 
+# [new controls & components] 
 * GunaControlBox
 * GunaContextMenu
 * GunaResize
@@ -77,3 +67,10 @@ Github * https://github.com/sobatdata
 * [update] GunaWinSwitch
 
 note: replaced gradiant -> gradient
+
+# FOLLOW
+* Youtube ► http://bit.ly/30wfEr0
+* Facebook ► https://facebook.com/sobatdata
+* Instagram ► https://instagram.com/sobatdata
+* Github ► https://github.com/sobatdata
+
