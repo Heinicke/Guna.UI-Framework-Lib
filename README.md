@@ -1,5 +1,7 @@
 # Guna.UI Framework | C#, VB.NET WinForms
-Version: 1.3 Beta2 [New Update August 28 2019]
+Version: 1.3 Beta2 [Update August 28 2019]
+
+Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
 # [new controls & components] 
 * [new] GunaControlBox
@@ -16,7 +18,7 @@ Version: 1.3 Beta2 [New Update August 28 2019]
 * [new] GunaImageReplaceColor
 * [update] GunaAdvenceButton
 * [update] GunaAdvenceTileButton
-* GunaAnimateWindow
+* [old] GunaAnimateWindow
 * [update] GunaButton
 * [update] GunaCheckBox
 * [update] GunaCircleButton
@@ -24,46 +26,46 @@ Version: 1.3 Beta2 [New Update August 28 2019]
 * [update] GunaCircleProgressBar
 * [update] GunaColorTransition
 * [update] GunaComboBox
-* GunaDataGridView
+* [old] GunaDataGridView
 * [update] GunaDragControl
 * [update] GunaElipse
-* GunaElipsePanel
-* GunaGauge
+* [old] GunaElipsePanel
+* [old] GunaGauge
 * [update] GunaGoogleSwitch
 * [update] GunaGradientButton
 * [update] GunaGradientCircleButton
 * [update] GunaGradientPanel
 * [update] GunaGroupBox
 * [update] GunaImageCheckBox
-* GunaHScrollBar
+* [old] GunaHScrollBar
 * [update] GunaImageButton
 * [update] GunaImageRadioButton
-* GunaLabel
-* GunaLinePanel
-* GunaLineTextBox
-* GunaLinkLabel
+* [old] GunaLabel
+* [old] GunaLinePanel
+* [old] GunaLineTextBox
+* [old] GunaLinkLabel
 * [update] GunaMediumCheckBox
 * [update] GunaMediumRadioButton
 * [update] GunaMetroTrackBar
 * [update] GunaMetroVTrackBar
-* GunaMouseStateHelper
+* [old] GunaMouseStateHelper
 * [update] GunaNumeric
-* GunaPanel
+* [old] GunaPanel
 * [update] GunaPictureBox
 * [update] GunaProgressBar
 * [update] GunaRadioButton
-* GunaSeparator
+* [old] GunaSeparator
 * [update] GunaSwitch
-* GunaTextBox
+* [old] GunaTextBox
 * [update] GunaTileButton
 * [update] GunaTrackBar
-* GunaTransfarantPictureBox
-* GunaTransition
+* [old] GunaTransfarantPictureBox
+* [old] GunaTransition
 * [update] GunaVProgressBar
-* GunaVScrollBar
-* GunaVSeparator
+* [old] GunaVScrollBar
+* [old] GunaVSeparator
 * [update] GunaVTrackBar
-* GunaWinCircleProgressIndicator
+* [old] GunaWinCircleProgressIndicator
 * [update] GunaWinSwitch
 
 note: replaced gradiant -> gradient
