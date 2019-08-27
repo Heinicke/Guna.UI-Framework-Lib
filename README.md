@@ -2,11 +2,11 @@
 Version: 1.3 Beta2 [New Update August 28 2019]
 
 # [new controls & components] 
-* GunaControlBox
-* GunaContextMenu
-* GunaResize
-* GunaResizeControl
-* GunaImageReplaceColor
+* [new] GunaControlBox
+* [new] GunaContextMenu
+* [new] GunaResize
+* [new] GunaResizeControl
+* [new] GunaImageReplaceColor
 
 # 57 Controls & Components
 * [new] GunaControlBox
