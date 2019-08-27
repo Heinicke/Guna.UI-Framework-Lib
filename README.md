@@ -3,7 +3,7 @@ Version: 1.3 Beta2 [Update August 28 2019]
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
-# [New Controls & Components] 
+# New Controls & Components
 * [new] GunaControlBox
 * [new] GunaContextMenu
 * [new] GunaResize
