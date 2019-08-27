@@ -70,7 +70,7 @@ Guna.UI controls are DLL driven tools to help you build awesome desktop applicat
 
 note: replaced gradiant -> gradient
 
-# FOLLOW
+# Follow
 * Youtube ► http://bit.ly/30wfEr0
 * Facebook ► https://facebook.com/sobatdata
 * Instagram ► https://instagram.com/sobatdata
