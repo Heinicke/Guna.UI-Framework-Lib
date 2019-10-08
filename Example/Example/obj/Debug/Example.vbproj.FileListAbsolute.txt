@@ -8,3 +8,4 @@ C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\E
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.exe
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.xml
 C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.pdb
+C:\Users\Ilham-PC\Source\Repos\Guna.UI-Framework-Lib\Example\Example\obj\Debug\Example.vbprojResolveAssemblyReference.cache

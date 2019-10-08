@@ -1,13 +1,18 @@
 # Guna.UI Framework | C#, VB.NET WinForms
-Version: 1.5 Beta  
-Update: September 20 2019
+Version: 1.6 Beta  
+Update: October 08 2019
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
 # Bug Fixed [3] 
+* [bug-fixed] GunaHScrollBar 
+* [bug-fixed] GunaVScrollBar
 * [bug-fixed] GunaControlBox 
-* [bug-fixed] GunaAdvenceButton
-* [bug-fixed] GunaAdvenceTileButton
+
+# New Helper [3] 
+* [new-helper] Guna.UI.Lib.ScrollBar.DataGridViewScrollHelper
+* [new-helper] Guna.UI.Lib.ScrollBar.ListViewScrollHelper
+* [new-helper] Guna.UI.Lib.ScrollBar.PanelScrollHelper
 
 # Controls & Components [60]
 * GunaDateTimePicker
@@ -15,13 +20,13 @@ Guna.UI controls are DLL driven tools to help you build awesome desktop applicat
 * GunaGradientTileButton
 * GunaGradientButton
 * GunaResize
-* [bug-fixed] GunaControlBox 
+* GunaControlBox 
 * GunaComboBox
 * GunaContextMenu
 * GunaResizeControl
 * GunaImageReplaceColor
-* [bug-fixed] GunaAdvenceButton
-* [bug-fixed] GunaAdvenceTileButton
+* GunaAdvenceButton
+* GunaAdvenceTileButton
 * GunaAnimateWindow
 * GunaButton
 * GunaCheckBox
