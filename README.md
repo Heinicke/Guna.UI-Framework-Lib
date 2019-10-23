@@ -1,18 +1,19 @@
 # Guna.UI Framework | C#, VB.NET WinForms
-Version: 1.6 Beta  
-Update: October 08 2019
+Version: 1.7
+Update: October 23 2019
+
+📌 How to update the Guna.UI
+Link ►https://youtu.be/N5I-LcdVv34
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
-# Bug Fixed [3] 
-* [bug-fixed] GunaHScrollBar 
-* [bug-fixed] GunaVScrollBar
-* [bug-fixed] GunaControlBox 
-
-# New Helper [3] 
-* [new-helper] Guna.UI.Lib.ScrollBar.DataGridViewScrollHelper
-* [new-helper] Guna.UI.Lib.ScrollBar.ListViewScrollHelper
-* [new-helper] Guna.UI.Lib.ScrollBar.PanelScrollHelper
+# Bug Fixed [6] 
+* [bug-fixed] GunaTextBox 'Fix KeyDown, KeyPress and KeyUp events'
+* [bug-fixed] GunaLineTextBox 'Fix KeyDown, KeyPress and KeyUp events'
+* [bug-fixed] Guna.UI.Lib.ScrollBar.ListViewScrollHelper 
+* [bug-fixed] Guna.UI.Lib.ScrollBar.PanelScrollHelper 
+* [bug-fixed] Fix errors when publish your project
+* [bug-fixed] Fix errors 'Notification Update Form' issues in the Guna.UI
 
 # Controls & Components [60]
 * GunaDateTimePicker

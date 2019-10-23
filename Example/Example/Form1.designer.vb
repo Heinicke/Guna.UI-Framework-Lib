@@ -25,7 +25,6 @@ Partial Class Form1
         Me.components = New System.ComponentModel.Container()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         Me.GunaDragControl1 = New Guna.UI.WinForms.GunaDragControl(Me.components)
-        Me.GunaElipse1 = New Guna.UI.WinForms.GunaElipse(Me.components)
         Me.GunaButton1 = New Guna.UI.WinForms.GunaButton()
         Me.GunaLabel1 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaPictureBox1 = New Guna.UI.WinForms.GunaPictureBox()
@@ -33,6 +32,7 @@ Partial Class Form1
         Me.GunaLabel2 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaLabel3 = New Guna.UI.WinForms.GunaLabel()
         Me.GunaVSeparator2 = New Guna.UI.WinForms.GunaVSeparator()
+        Me.GunaElipse1 = New Guna.UI.WinForms.GunaElipse(Me.components)
         CType(Me.GunaPictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -40,18 +40,16 @@ Partial Class Form1
         '
         Me.GunaDragControl1.TargetControl = Me
         '
-        'GunaElipse1
-        '
-        Me.GunaElipse1.TargetControl = Me
-        '
         'GunaButton1
         '
         Me.GunaButton1.Animated = True
         Me.GunaButton1.AnimationHoverSpeed = 0.07!
         Me.GunaButton1.AnimationSpeed = 0.03!
+        Me.GunaButton1.BackColor = System.Drawing.Color.Transparent
         Me.GunaButton1.BaseColor = System.Drawing.Color.White
         Me.GunaButton1.BorderColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.GunaButton1.BorderSize = 2
+        Me.GunaButton1.FocusedColor = System.Drawing.Color.Empty
         Me.GunaButton1.Font = New System.Drawing.Font("Segoe UI", 12.0!, System.Drawing.FontStyle.Bold)
         Me.GunaButton1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(100, Byte), Integer), CType(CType(88, Byte), Integer), CType(CType(255, Byte), Integer))
         Me.GunaButton1.Image = Nothing
@@ -132,6 +130,10 @@ Partial Class Form1
         Me.GunaVSeparator2.Size = New System.Drawing.Size(11, 71)
         Me.GunaVSeparator2.TabIndex = 6
         '
+        'GunaElipse1
+        '
+        Me.GunaElipse1.TargetControl = Me
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -158,11 +160,11 @@ Partial Class Form1
 
     Friend WithEvents GunaDragControl1 As Guna.UI.WinForms.GunaDragControl
     Friend WithEvents GunaButton1 As Guna.UI.WinForms.GunaButton
-    Friend WithEvents GunaElipse1 As Guna.UI.WinForms.GunaElipse
     Friend WithEvents GunaLabel3 As Guna.UI.WinForms.GunaLabel
     Friend WithEvents GunaLabel2 As Guna.UI.WinForms.GunaLabel
     Friend WithEvents GunaVSeparator1 As Guna.UI.WinForms.GunaVSeparator
     Friend WithEvents GunaPictureBox1 As Guna.UI.WinForms.GunaPictureBox
     Friend WithEvents GunaLabel1 As Guna.UI.WinForms.GunaLabel
     Friend WithEvents GunaVSeparator2 As Guna.UI.WinForms.GunaVSeparator
+    Friend WithEvents GunaElipse1 As Guna.UI.WinForms.GunaElipse
 End Class
