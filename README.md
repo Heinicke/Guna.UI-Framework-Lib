@@ -85,8 +85,8 @@ Guna.UI controls are DLL driven tools to help you build awesome desktop applicat
 * ShadowForm
 
 # Follow
-* Youtube ? http://bit.ly/30wfEr0
-* Facebook ? https://facebook.com/sobatdata
-* Instagram ? https://instagram.com/sobatdata
-* Github ? https://github.com/sobatdata
+* Youtube ► http://bit.ly/30wfEr0
+* Facebook ► https://facebook.com/sobatdata
+* Instagram ► https://instagram.com/sobatdata
+* Github ► https://github.com/sobatdata
 
