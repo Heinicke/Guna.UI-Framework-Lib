@@ -2,8 +2,8 @@
 Version: 1.8
 Update: November 06 2019
 
-?? How to update the Guna.UI
-Link ?https://youtu.be/N5I-LcdVv34
+📌 How to update the Guna.UI
+Link ►  https://youtu.be/N5I-LcdVv34
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
