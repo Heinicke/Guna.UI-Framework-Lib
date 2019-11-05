@@ -20,15 +20,7 @@ Guna.UI controls are DLL driven tools to help you build awesome desktop applicat
 * [update] GunaGradientCircleButton = Implements System.Windows.Forms.IButtonControl
 * [update] GunaGradientTileButton = Implements System.Windows.Forms.IButtonControl
 * [update] GunaImageButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaTileButton = Implements System.Windows.Forms.IButtonControl
-
-# Bug Fixed [6] 
-* [bug-fixed] GunaTextBox 'Fix KeyDown, KeyPress and KeyUp events'
-* [bug-fixed] GunaLineTextBox 'Fix KeyDown, KeyPress and KeyUp events'
-* [bug-fixed] Guna.UI.Lib.ScrollBar.ListViewScrollHelper 
-* [bug-fixed] Guna.UI.Lib.ScrollBar.PanelScrollHelper 
-* [bug-fixed] Fix errors when publish your project
-* [bug-fixed] Fix errors 'Notification Update Form' issues in the Guna.UI
+* [update] GunaTileButton = Implements System.Windows.Forms.IButtonControl 
 
 # Controls & Components [60]
 * GunaDateTimePicker
