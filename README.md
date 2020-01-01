@@ -1,6 +1,6 @@
 # Guna.UI Framework | C#, VB.NET WinForms
-Version: 1.8
-Update: November 06 2019
+Version: 1.9
+Update: January 02 2020
 
 📌 How to update the Guna.UI
 Link ►  https://youtu.be/N5I-LcdVv34
@@ -8,6 +8,7 @@ Link ►  https://youtu.be/N5I-LcdVv34
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
 # Bug Fixed [2] 
+* [bug-fixed] GunaDateTimePicker = fix bugs in ValueChaned and FormatChanged events
 * [bug-fixed] GunaComboBox = text does not appear if items are added through a DataSource
 * [bug-fixed] Guna.UI.Lib.GraphicsHelper.ShadowForm = shadowForm does not disappear even though the main form is closed
 
