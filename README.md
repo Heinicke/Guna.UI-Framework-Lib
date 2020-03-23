@@ -13,8 +13,10 @@ Guna.UI controls are DLL driven tools to help you build awesome desktop applicat
 * [bug-fixed] GunaControlBox
 * [bug-fixed] GunaDateTimePicker
 
-# Updates [1] 
-* [update] Licensing
+# Updates [Licensing] 
+* Activate Guna.UI.dll
+* Request 1 month code evaluation (Trial)
+* Deactivate the license used on your computer.
 
 # Controls & Components [60]
 * GunaDateTimePicker
