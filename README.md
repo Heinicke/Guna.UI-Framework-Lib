@@ -1,25 +1,20 @@
 # Guna.UI Framework | C#, VB.NET WinForms
-Version: 1.9
-Update: January 02 2020
+Version: 1.9.0.1
+Update: March 23 2020
 
 📌 How to update the Guna.UI
 Link ►  https://youtu.be/N5I-LcdVv34
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 
-# Bug Fixed [1] 
-* [bug-fixed] GunaDateTimePicker = fix bugs in ValueChaned and FormatChanged events 
+# Bug Fixed [4] 
+* [bug-fixed] GunaTextBox
+* [bug-fixed] GunaLineTextBox
+* [bug-fixed] GunaControlBox
+* [bug-fixed] GunaDateTimePicker
 
-# Updates [9] 
-* [update] GunaAdvenceButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaAdvenceTileButton  = Implements System.Windows.Forms.IButtonControl
-* [update] GunaButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaCircleButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaGradientButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaGradientCircleButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaGradientTileButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaImageButton = Implements System.Windows.Forms.IButtonControl
-* [update] GunaTileButton = Implements System.Windows.Forms.IButtonControl 
+# Updates [1] 
+* [update] Licensing
 
 # Controls & Components [60]
 * GunaDateTimePicker
