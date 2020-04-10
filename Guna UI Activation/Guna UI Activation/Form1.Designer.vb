@@ -1,9 +1,9 @@
-﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
+﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()>
 Partial Class Form1
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
-    <System.Diagnostics.DebuggerNonUserCode()> _
+    <System.Diagnostics.DebuggerNonUserCode()>
     Protected Overrides Sub Dispose(ByVal disposing As Boolean)
         Try
             If disposing AndAlso components IsNot Nothing Then
@@ -20,17 +20,15 @@ Partial Class Form1
     'NOTE: The following procedure is required by the Windows Form Designer
     'It can be modified using the Windows Form Designer.  
     'Do not modify it using the code editor.
-    <System.Diagnostics.DebuggerStepThrough()> _
+    <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
-        Me.Licensing1 = New Guna.UI.Licensing.Licensing()
+        Me.Licensing1 = New Guna.UI2.Licensing.Licensing()
         Me.SuspendLayout()
         '
         'Licensing1
         '
         Me.Licensing1.BackColor = System.Drawing.Color.White
-        Me.Licensing1.Dock = System.Windows.Forms.DockStyle.Fill
-        Me.Licensing1.ForeColor = System.Drawing.Color.FromArgb(CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer), CType(CType(28, Byte), Integer))
         Me.Licensing1.Location = New System.Drawing.Point(0, 0)
         Me.Licensing1.MaximumSize = New System.Drawing.Size(348, 485)
         Me.Licensing1.MinimumSize = New System.Drawing.Size(348, 485)
@@ -53,5 +51,5 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents Licensing1 As Guna.UI.Licensing.Licensing
+    Friend WithEvents Licensing1 As Guna.UI2.Licensing.Licensing
 End Class
