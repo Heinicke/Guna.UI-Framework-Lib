@@ -57,10 +57,10 @@ The advanced progress bar accepts custom & gradient BackColor. You can change th
 * Advance Tab Button <br>
 The Tab Button control is ideal for creating custom tabs. You can change hover and selection color, etc
 
-Advance Control Box <br>
+* Advance Control Box <br>
 Our control box makes it super easy to add custom control box with all advanced features enabled by default
 
-Advance TextBox Control <br>
+* Advance TextBox Control <br>
 Guna textbox controls range from Material to Advance. In some, an algorithm counts the input characters
 
 # Follow
