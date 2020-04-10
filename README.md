@@ -1,14 +1,14 @@
 # Framework for C#, VB.NET WinForms 
 
 # Guna.UI WinForms
-Version: 1.9.0.1
-Update: March 23 2020
-Controls & Components: 60
+* Version: 1.9.0.1
+* Update: March 23 2020
+* Controls & Components: 60
 
 # Guna.UI2 WinForms
-Version: 2.0.0.0
-Update: April 10 2020
-Controls & Components: 53
+* Version: 2.0.0.0
+* Update: April 10 2020
+* Controls & Components: 53
 
 📌 Website
 Link ►  https://gunaframework.com
