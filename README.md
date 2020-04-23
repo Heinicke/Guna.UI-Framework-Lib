@@ -18,7 +18,7 @@ Link ►  https://youtu.be/N5I-LcdVv34
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
 # Guna.UI2 v2.0.0.1- Bug Fixed [1] 
-* [bug-fixed] GunaTextBox (PlaceholderText, MouseDoubleClick Event, MouseClick Event, DoubleClick Event)
+* [bug-fixed] Guna2TextBox (PlaceholderText, MouseDoubleClick Event, MouseClick Event, DoubleClick Event)
 
 # Guna.UI v1.9.0.1 - Bug Fixed [4] 
 * [bug-fixed] GunaTextBox
