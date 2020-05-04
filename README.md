@@ -1,12 +1,12 @@
 # Framework for C#, VB.NET WinForms 
 
-# Guna.UI2 WinForms
-Version: 2.0.0.1
-Update: April 23 2020
+# Guna.UI2 WinForms [new]
+Version: 2.0.0.2 
+Update: May 04 2020
 Controls & Components: 53
 
-# Guna.UI WinForms
-Version: 1.9.0.1
+# Guna.UI WinForms [old]
+Version: 1.9.0.1 
 Update: March 23 2020
 Controls & Components: 60
 
@@ -17,19 +17,13 @@ Link ►  https://gunaframework.com
 Link ►  https://youtu.be/N5I-LcdVv34
 
 Guna.UI controls are DLL driven tools to help you build awesome desktop application interfaces. It guarantees great user experience in your apps and reduces development time. The DLLs are installed in your .NET environment and is built on top of WinForms. It enables developers to drag and drop hence faster coding
-# Guna.UI2 v2.0.0.1- Bug Fixed [1] 
-* [bug-fixed] Guna2TextBox (PlaceholderText, MouseDoubleClick Event, MouseClick Event, DoubleClick Event)
+# Guna.UI2 - Bug Fixed [2] 
+* [bug-fixed] Guna2TextBox (Placeholder)
+* [bug-fixed] Guna2ShadowForm (Focus on the parent form)
 
-# Guna.UI v1.9.0.1 - Bug Fixed [4] 
-* [bug-fixed] GunaTextBox
-* [bug-fixed] GunaLineTextBox
-* [bug-fixed] GunaControlBox
-* [bug-fixed] GunaDateTimePicker
+# Guna2.UI - Update [10+]
+* Adding Task Control to: Guna2Button, Guna2CircleButton, Guna2GradientButton, Guna2GradientCircleButton, Guna2TextBox, Guna2Panel and etc.
 
-# Guna.UI v1.9.0.1 - License control updated
-* Activate Guna.UI.dll
-* Request 1 month code evaluation (Trial)
-* Deactivate the license used on your computer.
 
 # Follow
 * Youtube ► http://bit.ly/30wfEr0
