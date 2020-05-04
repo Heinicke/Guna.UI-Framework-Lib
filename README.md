@@ -21,7 +21,7 @@ Guna.UI controls are DLL driven tools to help you build awesome desktop applicat
 * [bug-fixed] Guna2TextBox (Placeholder)
 * [bug-fixed] Guna2ShadowForm (Focus on the parent form)
 
-# Guna2.UI - Update [10+]
+# Guna.UI2 - Update [10+]
 * Adding Task Control to: Guna2Button, Guna2CircleButton, Guna2GradientButton, Guna2GradientCircleButton, Guna2TextBox, Guna2Panel and etc.
 
 
