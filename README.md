@@ -17,13 +17,13 @@ Link ►  https://gunaframework.com
 Link ►  https://youtu.be/N5I-LcdVv34
 
 
-# Guna.UI2 - Bug Fixed [2] 
-* [bug-fixed] Guna2TextBox (Placeholder)
-* [bug-fixed] Guna2ShadowForm (Focus on the parent form)
+# Guna.UI2 - Bug Fixed [6] 
 * [bug-fixed] Guna2Panel
 * [bug-fixed] Guna2CustomGradientPanel
 * [bug-fixed] Guna2GradientPanel
 * [bug-fixed] Guna2GroupBox
+* [bug-fixed] Guna2TextBox (Placeholder)
+* [bug-fixed] Guna2ShadowForm (Focus on the parent form)
 
 # Guna2.UI - Update [10+]
 * Adding Task Control to: Guna2Button, Guna2CircleButton, Guna2GradientButton, Guna2GradientCircleButton, Guna2TextBox and etc.
